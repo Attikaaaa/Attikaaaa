@@ -12,3 +12,4 @@ Right now I'm building [TerminalGrid](https://github.com/terminalgrid), a tiled 
 - [Star Garden](https://attikaaaa.github.io/star-garden/): pixel-art roguelite, playable in the browser
 - [ONE NIGHT](https://attikaaaa.github.io/forestglm/): first-person forest survival fragment in three.js
 - [Embervilág](https://attikaaaa.github.io/embervilag-web/): pixel-art survival game
+- [Érettségi](https://attikaaaa.github.io/erettsegi/): study notes for the Hungarian matura exam
