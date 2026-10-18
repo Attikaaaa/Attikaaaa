@@ -1,5 +1,5 @@
 <a href="https://github.com/terminalgrid">
-  <img src="https://raw.githubusercontent.com/terminalgrid/releases/main/.github/social-preview.png" alt="TerminalGrid">
+  <img src="https://raw.githubusercontent.com/terminalgrid/releases/main/.github/banner.png" alt="TerminalGrid">
 </a>
 
 Hi, I'm Attila. I make developer tools and small games.
